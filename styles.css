@@ -8,7 +8,6 @@ body{
     height: 100vh;
     display: flex;
     background-color: pink;
-    background-image: url();
 }
 h1{
     margin: auto;
@@ -35,5 +34,8 @@ h1{
 #no{
     left: 70%;
     transform: translateY(-50%) translateX(-80%);
+}
+#rose{
+    text-decoration: none;
 }
 
